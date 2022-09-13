@@ -1,0 +1,65 @@
+CLASSIFICADOR,PRECISAO,REVOGACAO,F1,TREINAMENTO [s],TESTE [s] 
+"One-Class SVM: {'gamma': 'scale', 'kernel': 'sigmoid', 'nu': 0.001}",0.6527777777777778,0.6527777777777778,0.6527777777777778,0.0003878606690300836,0.00019313229454888238
+"One-Class SVM: {'gamma': 0.01, 'kernel': 'sigmoid', 'nu': 0.001}",0.650462962962963,0.650462962962963,0.650462962962963,0.0005786948733859592,0.0002544191148546007
+"One-Class SVM: {'gamma': 0.1, 'kernel': 'sigmoid', 'nu': 0.001}",0.6203703703703703,0.6203703703703703,0.6203703703703703,0.00038988060421413847,9.875165091620552e-05
+"Floresta de Isolamento: {'bootstrap': False, 'contamination': 1e-09, 'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 100, 'random_state': 1}",0.6157407407407408,0.6157407407407408,0.6157407407407408,0.22614020109176636,0.054000788264804415
+"One-Class SVM: {'gamma': 'auto', 'kernel': 'sigmoid', 'nu': 0.001}",0.587962962962963,0.587962962962963,0.587962962962963,0.0003075599670410156,0.00028179089228312176
+"One-Class SVM: {'gamma': 0.5, 'kernel': 'poly', 'nu': 0.001}",0.5810185185185186,0.5810185185185186,0.5810185185185186,0.0004741085900200738,0.00016316440370347764
+"One-Class SVM: {'gamma': 5.0, 'kernel': 'poly', 'nu': 0.001}",0.5740740740740741,0.5740740740740741,0.5740740740740741,0.0006612406836615668,8.380413055419922e-05
+"One-Class SVM: {'gamma': 0.5, 'kernel': 'sigmoid', 'nu': 0.001}",0.5671296296296297,0.5671296296296297,0.5671296296296297,0.00033269325892130536,0.00017360846201578775
+"One-Class SVM: {'gamma': 1.0, 'kernel': 'sigmoid', 'nu': 0.001}",0.5671296296296297,0.5671296296296297,0.5671296296296297,0.0003571775224473741,0.00016570091247558594
+"One-Class SVM: {'gamma': 10.0, 'kernel': 'poly', 'nu': 0.001}",0.5648148148148148,0.5648148148148148,0.5648148148148148,0.0007316536373562283,0.0001066989368862576
+"One-Class SVM: {'gamma': 1.0, 'kernel': 'poly', 'nu': 0.001}",0.5578703703703703,0.5578703703703703,0.5578703703703703,0.0006073713302612305,0.00016629033618503145
+"One-Class SVM: {'gamma': 'auto', 'kernel': 'poly', 'nu': 0.001}",0.5555555555555556,0.5555555555555556,0.5555555555555556,0.00039054287804497615,0.00014058748881022135
+"One-Class SVM: {'gamma': 'auto', 'kernel': 'linear', 'nu': 0.001}",0.5393518518518519,0.5393518518518519,0.5393518518518519,0.00035636954837375216,0.0001964635319179959
+"One-Class SVM: {'gamma': 0.5, 'kernel': 'linear', 'nu': 0.001}",0.5393518518518519,0.5393518518518519,0.5393518518518519,0.0004182259241739909,0.00019607279035780166
+"One-Class SVM: {'gamma': 1.0, 'kernel': 'linear', 'nu': 0.001}",0.5393518518518519,0.5393518518518519,0.5393518518518519,0.00037174754672580294,0.00019596682654486762
+"One-Class SVM: {'gamma': 0.1, 'kernel': 'linear', 'nu': 0.001}",0.5393518518518519,0.5393518518518519,0.5393518518518519,0.0004444254769219293,0.00013671980963812934
+"One-Class SVM: {'gamma': 10.0, 'kernel': 'linear', 'nu': 0.001}",0.5393518518518519,0.5393518518518519,0.5393518518518519,0.000471088621351454,0.00022102064556545683
+"One-Class SVM: {'gamma': 0.01, 'kernel': 'linear', 'nu': 0.001}",0.5393518518518519,0.5393518518518519,0.5393518518518519,0.0003015266524420844,0.00019060240851508247
+"One-Class SVM: {'gamma': 0.001, 'kernel': 'linear', 'nu': 0.001}",0.5393518518518519,0.5393518518518519,0.5393518518518519,0.0003609988424513075,0.00014136234919230142
+"One-Class SVM: {'gamma': 'scale', 'kernel': 'linear', 'nu': 0.001}",0.5393518518518519,0.5393518518518519,0.5393518518518519,0.0005515350235833062,0.00010634793175591363
+"One-Class SVM: {'gamma': 5.0, 'kernel': 'linear', 'nu': 0.001}",0.5393518518518519,0.5393518518518519,0.5393518518518519,0.0003007517920600043,0.00013839536243014864
+"One-Class SVM: {'gamma': 0.0001, 'kernel': 'linear', 'nu': 0.001}",0.5393518518518519,0.5393518518518519,0.5393518518518519,0.0005576809247334799,0.00013685888714260526
+"One-Class SVM: {'gamma': 'scale', 'kernel': 'poly', 'nu': 0.001}",0.537037037037037,0.537037037037037,0.537037037037037,0.0005566808912489149,0.00013891193601820205
+"One-Class SVM: {'gamma': 10.0, 'kernel': 'sigmoid', 'nu': 0.001}",0.5300925925925926,0.5300925925925926,0.5300925925925926,0.00041593445671929256,0.00011039442486233181
+"One-Class SVM: {'gamma': 5.0, 'kernel': 'sigmoid', 'nu': 0.001}",0.525462962962963,0.525462962962963,0.525462962962963,0.0004736251301235623,0.00030858649147881404
+"Local Outlier Factor (LOF): {'algorithm': 'auto', 'contamination': 'auto', 'leaf_size': 15, 'metric': 'manhattan', 'n_neighbors': 20, 'novelty': True}",0.5185185185185186,0.5185185185185186,0.5185185185185186,0.0042229096094767255,0.004169040256076389
+"Local Outlier Factor (LOF): {'algorithm': 'auto', 'contamination': 'auto', 'leaf_size': 15, 'metric': 'l1', 'n_neighbors': 20, 'novelty': True}",0.5185185185185186,0.5185185185185186,0.5185185185185186,0.0044041673342386884,0.00391665432188246
+"Local Outlier Factor (LOF): {'algorithm': 'auto', 'contamination': 'auto', 'leaf_size': 15, 'metric': 'cityblock', 'n_neighbors': 20, 'novelty': True}",0.5185185185185186,0.5185185185185186,0.5185185185185186,0.004473672972785102,0.004142589039272732
+"Envelope Elíptico: {'assume_centered': False, 'contamination': 0.01, 'random_state': 1, 'support_fraction': 0.99}",0.5138888888888888,0.5138888888888888,0.5138888888888888,0.05160199933581882,0.0003058844142489963
+"Local Outlier Factor (LOF): {'algorithm': 'auto', 'contamination': 'auto', 'leaf_size': 15, 'metric': 'l2', 'n_neighbors': 20, 'novelty': True}",0.5115740740740741,0.5115740740740741,0.5115740740740741,0.004536761177910699,0.003888514306810167
+"Local Outlier Factor (LOF): {'algorithm': 'auto', 'contamination': 'auto', 'leaf_size': 15, 'metric': 'minkowski', 'n_neighbors': 20, 'novelty': True}",0.5115740740740741,0.5115740740740741,0.5115740740740741,0.004592802789476182,0.004056400722927517
+"Local Outlier Factor (LOF): {'algorithm': 'auto', 'contamination': 'auto', 'leaf_size': 15, 'metric': 'euclidean', 'n_neighbors': 20, 'novelty': True}",0.5115740740740741,0.5115740740740741,0.5115740740740741,0.004401352670457628,0.004278355174594455
+"One-Class SVM: {'gamma': 0.1, 'kernel': 'poly', 'nu': 0.001}",0.5115740740740741,0.5115740740740741,0.5115740740740741,0.00033615695105658635,0.0002453260951571994
+"Local Outlier Factor (LOF): {'algorithm': 'auto', 'contamination': 'auto', 'leaf_size': 15, 'metric': 'chebyshev', 'n_neighbors': 20, 'novelty': True}",0.5023148148148148,0.5023148148148148,0.5023148148148148,0.00430167383617825,0.004363543457455105
+"One-Class SVM: {'gamma': 10.0, 'kernel': 'rbf', 'nu': 0.001}",0.5,0.5,0.5,0.00036038955052693683,0.00030533472696940106
+"Local Outlier Factor (LOF): {'algorithm': 'auto', 'contamination': 'auto', 'leaf_size': 15, 'metric': 'correlation', 'n_neighbors': 20, 'novelty': True}",0.5,0.5,0.5,0.0008615454037984213,0.001277625560760498
+"One-Class SVM: {'gamma': 1.0, 'kernel': 'rbf', 'nu': 0.001}",0.5,0.5,0.5,0.0004387100537618001,0.00025093555450439453
+"Local Outlier Factor (LOF): {'algorithm': 'auto', 'contamination': 'auto', 'leaf_size': 15, 'metric': 'dice', 'n_neighbors': 20, 'novelty': True}",0.5,0.5,0.5,0.0008878840340508355,0.0009216864903767904
+"Local Outlier Factor (LOF): {'algorithm': 'auto', 'contamination': 'auto', 'leaf_size': 15, 'metric': 'canberra', 'n_neighbors': 20, 'novelty': True}",0.5,0.5,0.5,0.004334933227962918,0.0038883421156141493
+"Local Outlier Factor (LOF): {'algorithm': 'auto', 'contamination': 'auto', 'leaf_size': 15, 'metric': 'hamming', 'n_neighbors': 20, 'novelty': True}",0.5,0.5,0.5,0.0008045302497016059,0.0010827713542514378
+"Local Outlier Factor (LOF): {'algorithm': 'auto', 'contamination': 'auto', 'leaf_size': 15, 'metric': 'braycurtis', 'n_neighbors': 20, 'novelty': True}",0.5,0.5,0.5,0.004026929537455241,0.0043335821893480085
+"One-Class SVM: {'gamma': 0.5, 'kernel': 'rbf', 'nu': 0.001}",0.5,0.5,0.5,0.0007498860359191895,0.0003335608376397027
+"Local Outlier Factor (LOF): {'algorithm': 'auto', 'contamination': 'auto', 'leaf_size': 15, 'metric': 'jaccard', 'n_neighbors': 20, 'novelty': True}",0.5,0.5,0.5,0.000805199146270752,0.0008627904786003961
+"One-Class SVM: {'gamma': 5.0, 'kernel': 'rbf', 'nu': 0.001}",0.5,0.5,0.5,0.000359952449798584,0.00024882290098402236
+"Local Outlier Factor (LOF): {'algorithm': 'auto', 'contamination': 'auto', 'leaf_size': 15, 'metric': 'kulsinski', 'n_neighbors': 20, 'novelty': True}",0.5,0.5,0.5,0.0006671084298027887,0.0007495284080505371
+"Local Outlier Factor (LOF): {'algorithm': 'auto', 'contamination': 'auto', 'leaf_size': 15, 'metric': 'cosine', 'n_neighbors': 20, 'novelty': True}",0.5,0.5,0.5,0.0012510352664523655,0.0014443397521972656
+"Local Outlier Factor (LOF): {'algorithm': 'auto', 'contamination': 'auto', 'leaf_size': 15, 'metric': 'yule', 'n_neighbors': 20, 'novelty': True}",0.5,0.5,0.5,0.000637352466583252,0.0007780989011128744
+Dummy,0.5,0.5,0.5,0.00019491381115383573,0.0
+"Local Outlier Factor (LOF): {'algorithm': 'auto', 'contamination': 'auto', 'leaf_size': 15, 'metric': 'russellrao', 'n_neighbors': 20, 'novelty': True}",0.5,0.5,0.5,0.0005559590127733019,0.0007483959197998047
+"Local Outlier Factor (LOF): {'algorithm': 'auto', 'contamination': 'auto', 'leaf_size': 15, 'metric': 'sokalsneath', 'n_neighbors': 20, 'novelty': True}",0.5,0.5,0.5,0.000538892216152615,0.0006852613555060492
+"One-Class SVM: {'gamma': 0.001, 'kernel': 'rbf', 'nu': 0.001}",0.5,0.5,0.5,0.0005054407649570041,0.00022285514407687716
+"Local Outlier Factor (LOF): {'algorithm': 'auto', 'contamination': 'auto', 'leaf_size': 15, 'metric': 'sokalmichener', 'n_neighbors': 20, 'novelty': True}",0.5,0.5,0.5,0.0007504887051052517,0.0007191962665981717
+"Local Outlier Factor (LOF): {'algorithm': 'auto', 'contamination': 'auto', 'leaf_size': 15, 'metric': 'rogerstanimoto', 'n_neighbors': 20, 'novelty': True}",0.5,0.5,0.5,0.0007785095108879937,0.0006699893209669325
+"One-Class SVM: {'gamma': 'auto', 'kernel': 'rbf', 'nu': 0.001}",0.5,0.5,0.5,0.00041736496819390193,0.0002491871515909831
+"One-Class SVM: {'gamma': 0.0001, 'kernel': 'rbf', 'nu': 0.001}",0.5,0.5,0.5,0.0005315475993686252,0.00010848045349121094
+"One-Class SVM: {'gamma': 0.01, 'kernel': 'poly', 'nu': 0.001}",0.49768518518518523,0.49768518518518523,0.49768518518518523,0.0004443724950154622,0.00013854106267293295
+"Local Outlier Factor (LOF): {'algorithm': 'auto', 'contamination': 'auto', 'leaf_size': 15, 'metric': 'sqeuclidean', 'n_neighbors': 20, 'novelty': True}",0.4930555555555556,0.4930555555555556,0.4930555555555556,0.0006964206695556641,0.0006132390764024523
+"One-Class SVM: {'gamma': 'scale', 'kernel': 'rbf', 'nu': 0.001}",0.49074074074074076,0.49074074074074076,0.49074074074074076,0.0004977915022108289,0.0002771351072523329
+"One-Class SVM: {'gamma': 0.1, 'kernel': 'rbf', 'nu': 0.001}",0.49074074074074076,0.49074074074074076,0.49074074074074076,0.00038709243138631183,0.0002432001961602105
+"One-Class SVM: {'gamma': 0.01, 'kernel': 'rbf', 'nu': 0.001}",0.48148148148148145,0.48148148148148145,0.48148148148148145,0.0005889601177639432,0.00013813707563612197
+"One-Class SVM: {'gamma': 0.001, 'kernel': 'sigmoid', 'nu': 0.001}",0.4166666666666667,0.4166666666666667,0.4166666666666667,0.00036455525292290584,0.00014024972915649414
+"One-Class SVM: {'gamma': 0.0001, 'kernel': 'poly', 'nu': 0.001}",0.3958333333333333,0.3958333333333333,0.3958333333333333,0.00039005279541015625,0.0001379317707485623
+"One-Class SVM: {'gamma': 0.001, 'kernel': 'poly', 'nu': 0.001}",0.3958333333333333,0.3958333333333333,0.3958333333333333,0.00030461947123209637,0.0001391503545973036
+"One-Class SVM: {'gamma': 0.0001, 'kernel': 'sigmoid', 'nu': 0.001}",0.3958333333333333,0.3958333333333333,0.3958333333333333,0.0004509554968939887,0.00019114547305636935
